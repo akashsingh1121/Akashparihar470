@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Parihar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashparihar470&label=Profile%20views&color=0e75b6&style=flat" alt="akashparihar470" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashparihar470" alt="akashparihar470" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h5>I'm a passionate Full Stack Web Developer from India. I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</h5>
   
 - 🌱 I’m currently learning **MERN Stack**
@@ -15,6 +10,13 @@
 - 👨‍💻 All of my projects are available at [boom](boom)
 
 - 💬 Ask me about anything **I am happy to help**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashparihar470&label=Profile%20views&color=0e75b6&style=flat" alt="akashparihar470" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashparihar470" alt="akashparihar470" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
