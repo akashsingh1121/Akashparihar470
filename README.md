@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://endearing-selkie-aabaeb.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akashparihar-470.vercel.app/)
 
 - 💬 Ask me about anything **I am happy to help**
 
