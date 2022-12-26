@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/akashparihar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/akashparihar470/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akashparihar0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akashparihar0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/akashparihar470/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akashparihar0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akashparihar470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashparihar470" height="30" width="40" /></a>
 </p>
 
